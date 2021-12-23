@@ -1,0 +1,58 @@
+
+@font-face {
+    font-family: "DA RoadSigns";
+    font-weight: normal;
+    src: url("DA-RoadSigns.otf") format("opentype");
+}
+
+html{
+    background-color: #fff;
+    color: #333;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+
+h1, h2, h3{
+    font-family: "DA RoadSigns";
+    font-weight: 400;
+}
+
+h1{
+    font-size: 48px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+.font-example
+{
+    font-family: "DA RoadSigns";
+    font-size: 48px;
+    color: #000;
+}
+
+.roadsigns
+{
+    font-family: "DA RoadSigns";
+    line-height: 1.2;
+    font-size: 32px;
+    padding: 0.25em;
+    border-style: solid;
+    border-width: 0.1em;
+    border-color: currentColor;
+    border-radius: 0.15em;
+    box-shadow: 0rem 0.25rem 1rem rgba(0, 0, 0, 0.5);
+}
+
+body>div
+{
+    width: 800px;
+    margin: 0 auto 1rem;
+}
+
+hr{
+    width: 800px;
+    border-bottom: 4px solid #808080;
+    margin: 4rem auto;
+}

@@ -1,0 +1,5 @@
+# Exclude exported fonts - these should be in releases, not source control
+/FontExport/DA-RoadSigns.*
+
+# Exclude export folder for Affinity Designer SVGs
+/AD Export
