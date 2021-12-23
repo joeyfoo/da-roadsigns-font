@@ -2,7 +2,9 @@
 @font-face {
     font-family: "DA RoadSigns";
     font-weight: normal;
-    src: url("DA-RoadSigns.otf") format("opentype");
+    src: 
+        url("DA-RoadSigns.woff") format("woff"),
+        url("DA-RoadSigns.otf") format("opentype");
 }
 
 html{
