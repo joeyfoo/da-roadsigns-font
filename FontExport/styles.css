@@ -15,6 +15,13 @@ html{
     line-height: 1.2;
 }
 
+div{
+    overflow: auto;
+}
+
+.emoji-font{
+    font-family: "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+}
 p{
     margin: 0 auto 1rem;
     font-weight: 400;
@@ -64,6 +71,24 @@ h2{
     margin: 0 auto 2rem;
 }
 
+h3{
+    font-size: 32px;
+    text-transform: uppercase;
+    border: 2px solid currentColor;
+    margin: 0 auto 2rem;
+}
+
+table
+{
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 1.5rem;
+}
+td{
+    vertical-align: top;
+    padding-right: 1rem;
+}
+
 .font-example p
 {
     font-size: 48px;
@@ -80,9 +105,9 @@ h2{
     font-size: 32px;
     padding: 0.25em;
     border-style: solid;
-    border-width: 0.1em;
+    border-width: 0.2rem;
     border-color: currentColor;
-    border-radius: 0.15em;
+    border-radius: 0.25rem;
     box-shadow: 0rem 0.25rem 1rem rgba(0, 0, 0, 0.5);
     background-color: #fff;
     color: #000;

@@ -5,8 +5,8 @@ FamilyName: DA RoadSigns
 Weight: Regular
 Copyright: Copyright (c) 2021, Joey Foo (https://joeyfoo.com/),\nwith Reserved Font Name "DA RoadSigns".\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.
 UComments: "2021-12-19: Created with FontForge (http://fontforge.org)"
-FontLog: "v000.220+AAoA* Update hyphen vertical alignment+AAoACgAA-v000.210+AAoA* Update font names+AAoACgAA-v000.200+AAoA* Initial release"
-Version: 000.220
+FontLog: "v000.300+AAoA* Added various arrows+AAoACgAA-v000.220+AAoA* Update hyphen vertical alignment+AAoACgAA-v000.210+AAoA* Update font names+AAoACgAA-v000.200+AAoA* Initial release"
+Version: 000.300
 DefaultBaseFilename: DARoadSigns-Regular
 ItalicAngle: 0
 UnderlinePosition: -150
@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1639851655
-ModificationTime: 1641237118
+ModificationTime: 1641238517
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -76,17 +76,17 @@ KernClass2: 5 7 "Table 2 - lowercase"
  3 f t
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -20 {} 0 {} -20 {} 0 {} 0 {} -20 {} -20 {} -20 {} -20 {} -20 {} -20 {} 0 {} -20 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} -40 {} -20 {} -40 {} -40 {} -40 {} -20 {}
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2021, Joey Foo (https://joeyfoo.com/),+AAoA-with Reserved Font Name +ACIA-DA RoadSigns+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
-Encoding: ISO8859-1
+Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 24 24 5
+WinInfo: 128280 24 5
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 524286 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 256 71
+BeginChars: 1114112 81
 
 StartChar: A
 Encoding: 65 65 0
@@ -2233,6 +2233,221 @@ SplineSet
  213 606 207 604 202 601 c 0
  201 601 200 600 200 600 c 1
  198 595 l 2
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni2B05
+Encoding: 11013 11013 71
+Width: 1100
+Flags: W
+HStem: 218.609 160<370 1050>
+LayerCount: 2
+Fore
+SplineSet
+330 581.737304688 m 1
+ 570 578.609375 l 1
+ 370 378.609375 l 1
+ 1050 378.609375 l 1
+ 1050 218.609375 l 1
+ 370 218.609375 l 1
+ 570 18.2646484375 l 1
+ 330 18.609375 l 1
+ 50 300.000976562 l 1
+ 330 581.737304688 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: uni2B06
+Encoding: 11014 11014 72
+Width: 663
+Flags: W
+HStem: -200 21G<250.344 410.344>
+VStem: 250.344 160<-200 480>
+LayerCount: 2
+Fore
+SplineSet
+613.471679688 520 m 1
+ 610.34375 280 l 1
+ 410.34375 480 l 1
+ 410.34375 -200 l 1
+ 250.34375 -200 l 1
+ 250.34375 480 l 1
+ 50 280 l 1
+ 50.34375 520 l 1
+ 331.736328125 800 l 1
+ 613.471679688 520 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: uni2B07
+Encoding: 11015 11015 73
+Width: 663
+Flags: W
+HStem: -200 21G<311.611 351.835>
+VStem: 253.128 160<120 800>
+LayerCount: 2
+Fore
+SplineSet
+50 80 m 1
+ 53.1279296875 320 l 1
+ 253.127929688 120 l 1
+ 253.127929688 800 l 1
+ 413.127929688 800 l 1
+ 413.127929688 120 l 1
+ 613.471679688 320 l 1
+ 613.127929688 80 l 1
+ 331.735351562 -200 l 1
+ 50 80 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: uni2197
+Encoding: 8599 8599 74
+Width: 810
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+760.432617188 318.594726562 m 1
+ 620.211914062 123.791992188 l 1
+ 571.096679688 402.337890625 l 1
+ 181.064453125 -154.685546875 l 1
+ 50 -62.9130859375 l 1
+ 440.032226562 494.110351562 l 1
+ 161.204101562 445.192382812 l 1
+ 299.14453125 641.591796875 l 1
+ 690.249023438 709.5546875 l 1
+ 760.432617188 318.594726562 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: uni2198
+Encoding: 8600 8600 75
+Width: 807
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+296.58203125 -41.810546875 m 1
+ 161.486328125 156.580078125 l 1
+ 440.03125 107.46484375 l 1
+ 50 664.48828125 l 1
+ 181.064453125 756.260742188 l 1
+ 571.095703125 199.237304688 l 1
+ 620.493164062 477.979492188 l 1
+ 757.870117188 281.185546875 l 1
+ 687.967773438 -109.576171875 l 1
+ 296.58203125 -41.810546875 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: uni2199
+Encoding: 8601 8601 76
+Width: 810
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 281.405273438 m 1
+ 190.220703125 476.208007812 l 1
+ 239.3359375 197.662109375 l 1
+ 629.368164062 754.685546875 l 1
+ 760.432617188 662.913085938 l 1
+ 370.400390625 105.889648438 l 1
+ 649.228515625 154.807617188 l 1
+ 511.288085938 -41.591796875 l 1
+ 120.18359375 -109.5546875 l 1
+ 50 281.405273438 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: uni2196
+Encoding: 8598 8598 77
+Width: 807
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+511.288085938 641.810546875 m 1
+ 646.383789062 443.419921875 l 1
+ 367.838867188 492.53515625 l 1
+ 757.870117188 -64.48828125 l 1
+ 626.805664062 -156.260742188 l 1
+ 236.774414062 400.762695312 l 1
+ 187.376953125 122.020507812 l 1
+ 50 318.814453125 l 1
+ 119.90234375 709.576171875 l 1
+ 511.288085938 641.810546875 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: uni27A1
+Encoding: 10145 10145 78
+Width: 1100
+Flags: W
+HStem: 221.391 160<50 730>
+LayerCount: 2
+Fore
+SplineSet
+770 18.2626953125 m 1
+ 530 21.390625 l 1
+ 730 221.390625 l 1
+ 50 221.390625 l 1
+ 50 381.390625 l 1
+ 730 381.390625 l 1
+ 530 581.735351562 l 1
+ 770 581.390625 l 1
+ 1050 299.999023438 l 1
+ 770 18.2626953125 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: uni25B6
+Encoding: 9654 9654 79
+Width: 1380
+Flags: W
+HStem: 180 240<50 890>
+LayerCount: 2
+Fore
+SplineSet
+1330 300 m 1
+ 950 -80 l 1
+ 630 -80 l 1
+ 890 180 l 1
+ 50 180 l 1
+ 50 420 l 1
+ 890 420 l 1
+ 630 680 l 1
+ 950 680 l 1
+ 1330 300 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u1F53D
+Encoding: 128317 128317 80
+Width: 2500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1250 -80 m 1
+ 50 400 l 1
+ 770 400 l 1
+ 770 640 l 1
+ 1730 640 l 1
+ 1730 400 l 1
+ 2450 400 l 1
+ 1250 -80 l 1
 EndSplineSet
 Validated: 1
 EndChar

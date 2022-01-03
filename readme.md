@@ -1,8 +1,6 @@
 # DA RoadSigns
 
-A typeface based on directional signage found on Singapore's roads.
-
-![Header image](Docs/da-roadsigns-readme-hero@2x.png)
+![A typeface based on directional signage found on Singapore's roads.](Docs/da-roadsigns-readme-hero@2x.png)
 
 -----
 
@@ -37,8 +35,25 @@ The following glyphs are currently included:
   * Dot `.`
   * Forward slash `/`
   * Colon `:`
+* Several arrows (see note below)
+  * Reduced-sized arrows
+  * To-scale right arrow
+  * To-scale downward-pointing lane arrow
 
-Future glyphs planned for inclusion includes basic arrows. 
+Arrows are available for input using the usual emoji-input methods: [a preview is available here](https://roadsigns.dangeraspect.xyz/#arrows).
+
+| Arrow type | Emoji | Unicode code point
+|--|--|--
+| Reduced-sized up arrow | ⬆ | `U+2B06`
+| Reduced-sized up-right arrow | ↗ | `U+2197`
+| Reduced-sized right arrow | ➡ | `U+27A1`
+| Reduced-sized down-right arrow | ↘ | `U+2198`
+| Reduced-sized down arrow | ⬇ | `U+2B07`
+| Reduced-sized down-left arrow | ↙ | `U+2199`
+| Reduced-sized left arrow | ⬅ | `U+2B05`
+| Reduced-sized up-left arrow | ↖ | `U+2196`
+| Full-size right arrow | ▶ | `U+25B6`
+| Full-size downward lane arrow | 🔽 | `U+1F53D`
 
 ### Metrics and spacing
 
