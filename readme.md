@@ -1,6 +1,7 @@
 # DA RoadSigns
 
-**A typeface based on directional signages found on Singapore's roads.**
+![Header image](Docs/da-roadsigns-readme-hero@2x.png)
+A typeface based on directional signage found on Singapore's roads.
 
 -----
 
@@ -32,6 +33,7 @@ Future glyphs planned for inclusion includes basic arrows.
 
 ### Metrics and spacing
 
+![Vertical font metrics for DA RoadSigns](Docs/da-roadsigns-readme-metrics@2x.png)
 * UPM: `1000`
 * Ascender: `800`
 * Cap height: `700`
