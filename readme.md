@@ -1,19 +1,28 @@
 # DA RoadSigns
 
-![Header image](Docs/da-roadsigns-readme-hero@2x.png)
 A typeface based on directional signage found on Singapore's roads.
+
+![Header image](Docs/da-roadsigns-readme-hero@2x.png)
+
+-----
+
+## [⬇ Downloads and changelog](https://github.com/joeyfoo/da-roadsigns-font/releases)
+
+The font is available in OpenType (CFF) and WOFF formats.
+
+A [preview of the font](https://roadsigns.dangeraspect.xyz/) used as a webfont is also available. 
 
 -----
 
 ## Overview
 
-DA RoadSigns is a computer font created based on the typeface used on directional signs found on Singapore's road. 
+**DA RoadSigns** is a font based on the typeface used on the directional signs found on Singapore's roads. 
 
 ## Usage notes
 
 This typeface is not recommended for use at smaller font sizes - it has not been optimised for clarity or readability. It appears best when used at larger sizes, usually as white text on a dark-coloured background. 
 
-**⚠️ Please note:** The typeface is based on <u>but not exactly the same</u> as provided in the document - some elements may be different, such as the ampersand symbol and the kerning around the comma symbol. 
+**⚠️ Please note:** The typeface is based on **but not exactly the same** as the Land Transport Authority's road element standards - some elements may be different.
 
 ### Glyphs
 
@@ -34,16 +43,17 @@ Future glyphs planned for inclusion includes basic arrows.
 ### Metrics and spacing
 
 ![Vertical font metrics for DA RoadSigns](Docs/da-roadsigns-readme-metrics@2x.png)
+
 * UPM: `1000`
 * Ascender: `800`
 * Cap height: `700`
 * x-height: `500`
 * Baseline: `0`
-* Descender: -`200`
+* Descender: `-200`
 
 In other words, to get an x-height of 25mm, use a font size of 50mm (~142 pt), which will yield a cap-height of 35mm. 
 
-The recommended vertical spacing between text in the SDRE is 20mm at an x-height of 25mm, which would equate to a line spacing of 120%. 
+The recommended vertical spacing between text in the _Standard Details of Road Elements_ is 20mm at an x-height of 25mm, which would equate to a line spacing of 120%. 
 
 ## Development notes
 

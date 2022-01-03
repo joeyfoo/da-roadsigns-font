@@ -1,12 +1,13 @@
 SplineFontDB: 3.2
-FontName: DA-RoadSigns
-FullName: DA RoadSigns
-FamilyName: DARoadSigns
+FontName: DARoadSigns-Regular
+FullName: DA RoadSigns Regular
+FamilyName: DA RoadSigns
 Weight: Regular
 Copyright: Copyright (c) 2021, Joey Foo (https://joeyfoo.com/),\nwith Reserved Font Name "DA RoadSigns".\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.
 UComments: "2021-12-19: Created with FontForge (http://fontforge.org)"
-FontLog: "v002.000+AAoA* Initial release"
-Version: 000.200
+FontLog: "v000.220+AAoA* Update hyphen vertical alignment+AAoACgAA-v000.210+AAoA* Update font names+AAoACgAA-v000.200+AAoA* Initial release"
+Version: 000.220
+DefaultBaseFilename: DARoadSigns-Regular
 ItalicAngle: 0
 UnderlinePosition: -150
 UnderlineWidth: 50
@@ -23,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1639851655
-ModificationTime: 1640230225
+ModificationTime: 1641237118
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -2126,18 +2127,18 @@ StartChar: hyphen
 Encoding: 45 45 68
 Width: 400
 Flags: W
-HStem: 300.001 99.998<50 350.003>
-VStem: 50 300.003<300.001 399.999>
+HStem: 320.001 99.998<50 350.003>
+VStem: 50 300.003<320.001 419.999>
 LayerCount: 2
 Fore
 SplineSet
-50 300.000976562 m 1
- 50 399.999023438 l 1
- 350.002929688 399.999023438 l 1
- 350.002929688 300.000976562 l 1
- 50 300.000976562 l 1
+50 320.000976562 m 1
+ 50 419.999023438 l 1
+ 350.002929688 419.999023438 l 1
+ 350.002929688 320.000976562 l 1
+ 50 320.000976562 l 1
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: quotesingle
