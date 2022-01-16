@@ -5,8 +5,8 @@ FamilyName: DA RoadSigns
 Weight: Regular
 Copyright: Copyright (c) 2021, Joey Foo (https://joeyfoo.com/),\nwith Reserved Font Name "DA RoadSigns".\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.
 UComments: "2021-12-19: Created with FontForge (http://fontforge.org)"
-FontLog: "v000.300+AAoA* Added various arrows+AAoACgAA-v000.220+AAoA* Update hyphen vertical alignment+AAoACgAA-v000.210+AAoA* Update font names+AAoACgAA-v000.200+AAoA* Initial release"
-Version: 000.300
+FontLog: "v000.310+AAoA* Fix missing space glyph+AAoACgAA-v000.300+AAoA* Added various arrows+AAoACgAA-v000.220+AAoA* Update hyphen vertical alignment+AAoACgAA-v000.210+AAoA* Update font names+AAoACgAA-v000.200+AAoA* Initial release"
+Version: 000.310
 DefaultBaseFilename: DARoadSigns-Regular
 ItalicAngle: 0
 UnderlinePosition: -150
@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1639851655
-ModificationTime: 1641238517
+ModificationTime: 1642324801
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -82,11 +82,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 128280 24 5
+WinInfo: 0 24 5
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 524286 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 81
+BeginChars: 1114112 82
 
 StartChar: A
 Encoding: 65 65 0
@@ -2138,7 +2138,7 @@ SplineSet
  350.002929688 320.000976562 l 1
  50 320.000976562 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: quotesingle
@@ -2256,7 +2256,7 @@ SplineSet
  50 300.000976562 l 1
  330 581.737304688 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2B06
@@ -2279,7 +2279,7 @@ SplineSet
  331.736328125 800 l 1
  613.471679688 520 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2B07
@@ -2302,7 +2302,7 @@ SplineSet
  331.735351562 -200 l 1
  50 80 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2197
@@ -2323,7 +2323,7 @@ SplineSet
  690.249023438 709.5546875 l 1
  760.432617188 318.594726562 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2198
@@ -2344,7 +2344,7 @@ SplineSet
  687.967773438 -109.576171875 l 1
  296.58203125 -41.810546875 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2199
@@ -2365,7 +2365,7 @@ SplineSet
  120.18359375 -109.5546875 l 1
  50 281.405273438 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2196
@@ -2386,7 +2386,7 @@ SplineSet
  119.90234375 709.576171875 l 1
  511.288085938 641.810546875 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni27A1
@@ -2408,7 +2408,7 @@ SplineSet
  1050 299.999023438 l 1
  770 18.2626953125 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni25B6
@@ -2449,6 +2449,15 @@ SplineSet
  2450 400 l 1
  1250 -80 l 1
 EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: space
+Encoding: 32 32 81
+Width: 400
+Flags: W
+LayerCount: 2
+Fore
 Validated: 1
 EndChar
 EndChars
