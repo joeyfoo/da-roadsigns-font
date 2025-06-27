@@ -78,4 +78,4 @@ This font was produced using [FontForge](https://fontforge.org/), with letterfor
 
 ### References
 
-The letterforms are based on the Land Transport Authority's standards for road signs, specifically [Standard Details of Road Elements, chapter 7 (LTA/SDRE14/7)](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/street-work-proposals/codes_of_practice_standards_specifications_guides_and_forms.html).
+The letterforms are based on the Land Transport Authority's standards for road signs, specifically **Standard Details of Road Elements, chapter 7** (LTA/SDRE14/7), which can be found on the LTA website under [Development & Construction Resources > Transport Infrastructure Design Criteria & Specifications > Design Criteria](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/Transport_Infrastructure_Design_Criteria_and_Specifications.html#collapse-content-tab_yellow_new-DesignCriteria).
